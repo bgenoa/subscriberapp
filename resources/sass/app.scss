@@ -1,0 +1,30 @@
+
+// Fonts
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons');
+
+// Variables
+//@import 'variables';
+
+// Bootstrap
+//@import '~bootstrap/scss/bootstrap';
+
+/*.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}*/
+
+// Vuetify
+@import '~vuetify/dist/vuetify.min.css';
+
+// Material design icons
+@import '~material-design-icons-iconfont/dist/material-design-icons';
+
+.v-sheet--offset {
+  top: -24px;
+  position: relative;
+}
+
+.tr-clickable tbody td {
+  cursor: pointer;
+}
