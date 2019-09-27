@@ -8,7 +8,7 @@
 1. Clone the repository into your local development environment
 
 ```bash
-git clone ....
+git clone https://github.com/bgenoa/subscriberapp.git
 ```
 
 2. Install the composer and npm dependencies
